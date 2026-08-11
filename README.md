@@ -2,7 +2,7 @@
 
 A Python sports-data analytics project that analyzes athlete training sessions using **Pandas** and the **session-RPE (sRPE) method**.
 
-This is **Day 8** of my Sports Performance & Sports Data Analytics Python portfolio.
+This is the Sports Performance & Sports Data Analytics Python portfolio.
 
 ---
 
