@@ -394,7 +394,3 @@ Strength & Conditioning | Sports Performance | Sports Analytics | Python
 This project is licensed under the **MIT License**.
 
 ---
-
-## 📌 Project Status
-
-**Day 8 — Completed ✅**
