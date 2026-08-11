@@ -1,6 +1,5 @@
 # ==========================================
 # Athlete Training Load Analyzer
-# Day 8 - Sports Data Analytics
 # Author: Abhishek Tomar
 # ==========================================
 
