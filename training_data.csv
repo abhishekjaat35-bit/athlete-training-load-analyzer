@@ -1,0 +1,16 @@
+Athlete,Date,Session_Type,Duration_min,sRPE
+Rahul,2026-08-03,Strength,75,7
+Rahul,2026-08-04,Speed,60,8
+Rahul,2026-08-05,Recovery,45,3
+Rahul,2026-08-06,Conditioning,70,8
+Rahul,2026-08-07,Strength,80,7
+Arjun,2026-08-03,Strength,70,6
+Arjun,2026-08-04,Speed,55,7
+Arjun,2026-08-05,Recovery,40,3
+Arjun,2026-08-06,Conditioning,65,7
+Arjun,2026-08-07,Strength,75,8
+Vikram,2026-08-03,Strength,80,8
+Vikram,2026-08-04,Speed,60,9
+Vikram,2026-08-05,Recovery,45,2
+Vikram,2026-08-06,Conditioning,75,8
+Vikram,2026-08-07,Strength,85,9
